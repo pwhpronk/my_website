@@ -1,2 +1,2 @@
 # my_website
-Personal website
+Personal website, ppronk.nl, cv and portfolio
